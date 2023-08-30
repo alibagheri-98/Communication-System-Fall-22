@@ -11,6 +11,3 @@ In this repository, communication systems homework assignments and solutions tha
 - Analog to Digital Conversion
 - Digital Communication
 - Multiple Access Control
-
-## Note
-The course is instructed in Persian (Farsi) language.
